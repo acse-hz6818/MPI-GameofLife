@@ -1,0 +1,12 @@
+#PBS -N job_name 
+#PBS -l walltime=10:00 
+#PBS -l select=1:ncpus=24:mpiprocs=24:mem=1GB 
+
+
+module load intel-suite
+module load mpi
+
+cd $PBS_O_WORKDIR
+
+mpiexec -n 24 ~/acse6-ex1/my_code
+
