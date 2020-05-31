@@ -1,4 +1,4 @@
-# ACSE-6 individual assignment - Game of Life
+# Game of Life
 
 * Name: He Zhu
 
