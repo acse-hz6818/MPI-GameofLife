@@ -1,12 +1,5 @@
 # Game of Life
 
-* Name: He Zhu
-
-* CID: 01583139
-
-* Email: hz6818@ic.ac.uk
-
-
 ## Environment
 
 * operating system: MacOS Mojave 10.14.5
